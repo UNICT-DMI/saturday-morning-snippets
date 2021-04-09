@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Docker
-eventlocation: Mumbai, India 
+eventlocation: Link Microsoft Teams  
 weight: 10
 ---
 

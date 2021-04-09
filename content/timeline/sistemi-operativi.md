@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Storia dei sistemi operativi
-eventlocation: San Francisco, CA  
+eventlocation: Link Microsoft Teams  
 weight: 10
 ---
 

@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Kubernetes
-eventlocation: Singapore
+eventlocation: Link Microsoft Teams  
 weight: 10
 ---
 

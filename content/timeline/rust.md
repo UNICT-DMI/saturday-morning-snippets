@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Rust
-eventlocation: Singapore
+eventlocation:  Link Microsoft Teams
 weight: 10
 ---
 
