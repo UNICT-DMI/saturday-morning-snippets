@@ -125,7 +125,7 @@ disableHugoGeneratorInject = false
 [menu]
   [[menu.main]]
     identifier = "timeline"
-    name       = "Timelines"
+    name       = "Timeline"
     url        = "timeline/"
     weight     = 1
  
