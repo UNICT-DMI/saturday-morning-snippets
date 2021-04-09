@@ -1,7 +1,7 @@
 ---
 speaker:
   name: "Davide Carnemolla"
-date: 2020-05-15
+date: 2020-05-15T09:00:00
 start: "9:00"
 title: 'Arch Linux: una distribuzione semplice'
 eventname: Davide Carnemolla

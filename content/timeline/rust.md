@@ -1,7 +1,7 @@
 ---
 speaker:
   name: "Lorenzo Catania"
-date: 2020-06-05
+date: 2020-06-05T09:00:00
 start: "9:00"
 title: Rust
 linkcollegamento: ""

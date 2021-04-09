@@ -1,7 +1,7 @@
 ---
 speaker:
   name: "Stefano Borzì"
-date: 2020-05-08
+date: 2020-05-08T09:00:00
 title: Storia dei sistemi operativi
 linkcollegamento: ""
 weight: 10

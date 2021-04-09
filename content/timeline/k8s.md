@@ -1,7 +1,7 @@
 ---
 speaker:
   name: "Salvo Nicotra"
-date: 2020-05-29
+date: 2020-05-29T09:00:00
 title: Kubernetes
 linkcollegamento: ""
 logo: "/img/k8s.svg"

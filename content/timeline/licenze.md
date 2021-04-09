@@ -1,7 +1,7 @@
 ---
 speaker:
   name: "Angelo Alù & Federica Giaquinta"
-date: "2020-06-12"
+date: 2020-06-12T09:00:00
 title: Licenze
 linkcollegamento: ""
 logo: "/img/gpl.svg"
