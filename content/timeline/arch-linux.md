@@ -7,7 +7,7 @@ type:
 - posts
 title: 'Arch Linux: una distribuzione semplice'
 eventname: Davide Carnemolla
-eventlocation: Link Microsoft Teams
+linkcollegamento: ""
 ---
 
 ## Abstract

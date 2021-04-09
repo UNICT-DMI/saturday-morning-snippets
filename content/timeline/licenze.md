@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Licenze
-eventlocation: Link Microsoft Teams  
+linkcollegamento: ""
 weight: 10
 ---
 

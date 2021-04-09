@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Storia dei sistemi operativi
-eventlocation: Link Microsoft Teams  
+linkcollegamento: ""
 weight: 10
 ---
 

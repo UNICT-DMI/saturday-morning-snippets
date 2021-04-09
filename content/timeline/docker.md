@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Docker
-eventlocation: Link Microsoft Teams  
+linkcollegamento: ""
 weight: 10
 ---
 

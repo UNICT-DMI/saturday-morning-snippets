@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Rust
-eventlocation:  Link Microsoft Teams
+linkcollegamento: ""
 weight: 10
 ---
 

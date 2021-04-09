@@ -7,7 +7,7 @@ type:
 - post
 - posts
 title: Kubernetes
-eventlocation: Link Microsoft Teams  
+linkcollegamento: ""
 weight: 10
 ---
 
