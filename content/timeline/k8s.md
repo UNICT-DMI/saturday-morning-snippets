@@ -8,6 +8,7 @@ type:
 - posts
 title: Kubernetes
 linkcollegamento: ""
+logo: "/img/k8s.svg"
 weight: 10
 ---
 

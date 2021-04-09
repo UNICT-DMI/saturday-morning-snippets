@@ -8,6 +8,7 @@ type:
 - posts
 title: Rust
 linkcollegamento: ""
+logo: "/img/rust.svg"
 weight: 10
 ---
 

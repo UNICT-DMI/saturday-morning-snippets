@@ -8,6 +8,7 @@ type:
 - posts
 title: Licenze
 linkcollegamento: ""
+logo: "/img/gpl.svg"
 weight: 10
 ---
 

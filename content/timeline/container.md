@@ -2,12 +2,12 @@
 speaker:
   name: "Luigi Toscano"
 date: 2020-05-22
-linktitle: Lorem Ipsum
 type:
 - post
 - posts
 title: Introduzione ai container
 linkcollegamento: ""
+logo: "/img/docker.svg"
 weight: 10
 ---
 

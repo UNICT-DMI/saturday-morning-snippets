@@ -8,6 +8,7 @@ type:
 title: 'Arch Linux: una distribuzione semplice'
 eventname: Davide Carnemolla
 linkcollegamento: ""
+logo: "/img/archlinux.svg"
 ---
 
 ## Abstract

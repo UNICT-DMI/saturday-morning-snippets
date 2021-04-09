@@ -2,13 +2,14 @@
 speaker:
   name: "Stefano Borzì"
 date: 2020-05-08
-linktitle: Amet Mauris
+linktitle: Storia dei sistemi operativi
 type:
 - post
 - posts
 title: Storia dei sistemi operativi
 linkcollegamento: ""
 weight: 10
+logo: "/img/tux.svg"
 ---
 
 ## Abstract
