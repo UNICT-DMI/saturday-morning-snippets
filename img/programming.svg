@@ -37,17 +37,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="699"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      id="namedview412"
      showgrid="false"
-     inkscape:zoom="0.76330367"
-     inkscape:cx="382.6676"
-     inkscape:cy="395.85823"
+     inkscape:zoom="1.0794744"
+     inkscape:cx="633.04561"
+     inkscape:cy="380.2766"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="59725d3d-bdd8-4af0-9b66-49b8d09410bc"
      inkscape:document-rotation="0" />
   <defs
      id="defs255">
@@ -1149,32 +1149,38 @@
        d="M242.24,217V726.62l-42.33.46a88.07,88.07,0,0,1-26.67-3.82V279h.07C194.1,253.45,217.41,232.13,242.24,217Z"
        transform="translate(-79.34 -172.91)"
        fill="#888888"
-       id="path261" />
+       id="path261"
+       style="fill:#000000;fill-opacity:1" />
     <path
        d="M1117.24,290.08H164.6q4.25-5.64,8.64-11V279h941.63Q1116.24,284.43,1117.24,290.08Z"
        transform="translate(-79.34 -172.91)"
        fill="#888888"
-       id="path263" />
+       id="path263"
+       style="fill:#000000;fill-opacity:1" />
     <path
        d="M1040.82,191.51v427h-3.47q-2.7,5.67-5.33,11.12c-.78,1.61-1.56,3.19-2.32,4.77V187.47Q1035.47,189.33,1040.82,191.51Z"
        transform="translate(-79.34 -172.91)"
        fill="#888888"
-       id="path265" />
+       id="path265"
+       style="fill:#000000;fill-opacity:1" />
     <path
        d="M776.21,186.58V720.83l-11.12.12V188.86C768.78,188.08,772.48,187.31,776.21,186.58Z"
        transform="translate(-79.34 -172.91)"
        fill="#888888"
-       id="path267" />
+       id="path267"
+       style="fill:#000000;fill-opacity:1" />
     <path
        d="M509.22,236.15V723.73l-11.11.12V235.62C501.82,235.86,505.53,236,509.22,236.15Z"
        transform="translate(-79.34 -172.91)"
        fill="#888888"
-       id="path269" />
+       id="path269"
+       style="fill:#000000;fill-opacity:1" />
     <path
        d="M1037.35,618.52q-2.7,5.67-5.33,11.12H93.85q-1.93-5.49-3.6-11.12Z"
        transform="translate(-79.34 -172.91)"
        fill="#888888"
-       id="path271" />
+       id="path271"
+       style="fill:#000000;fill-opacity:1" />
   </g>
   <rect
      x="211.6"
@@ -4082,7 +4088,8 @@
     <g
        transform="matrix(0.53687083,0,0,0.53687083,417.37669,363.20948)"
        id="layer2"
-       inkscape:label="Tux">
+       inkscape:label="Tux"
+       style="opacity:0.85">
       <g
          inkscape:label="Body"
          id="g463">
