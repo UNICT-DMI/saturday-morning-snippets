@@ -128,4 +128,9 @@ disableHugoGeneratorInject = false
     name       = "Timeline"
     url        = "timeline/"
     weight     = 1
+  [[menu.main]]
+    identifier = "contact"
+    name="Contacts"
+    url = "contact/"
+    weight = 2
  

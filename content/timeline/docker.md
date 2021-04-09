@@ -6,13 +6,16 @@ linktitle: Lorem Ipsum
 type:
 - post
 - posts
-title: Docker
+title: Introduzione ai container
 linkcollegamento: ""
 weight: 10
 ---
 
 ## Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta.
+Si fa presto a dire 'container': una delle tecnologie informatiche più
+rilevanti nell'ultimo decennio è saldamente fondata sulle funzioni del kernel
+Linux. Questa presentazione mosterà come tali funzioni sono state utilizzate
+per costruire degli strumenti ad alto livello per la gestione dei container."
 
-[LINK](https://gohugo.io/getting-started/)
+[Link al collegamento](https://gohugo.io/getting-started/)

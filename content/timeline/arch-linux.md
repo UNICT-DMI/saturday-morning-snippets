@@ -18,4 +18,4 @@ Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Euismod in pel
 
 Sapien faucibus et molestie ac feugiat sed. Varius sit amet mattis vulputate enim nulla. Risus ultricies tristique nulla aliquet enim tortor at. Lobortis elementum nibh tellus molestie nunc non. Nisl nisi scelerisque eu ultrices vitae auctor eu. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Sit amet justo donec enim diam. Commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae. Donec ultrices tincidunt arcu non. Magna ac placerat vestibulum lectus mauris. Eget nunc lobortis mattis aliquam faucibus. Tristique nulla aliquet enim tortor at auctor.
 
-[Link](https://gohugo.io/)
+[Link al collegamento](https://gohugo.io/)
