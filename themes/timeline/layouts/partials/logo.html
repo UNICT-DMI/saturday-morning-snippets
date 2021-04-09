@@ -5,5 +5,10 @@
         <span class="logo__text">{{ with .Site.Params.Logo.logoText }}{{ . }}{{ end }}</span>
         <span class="logo__mark"> </span>
         <span class="logo__text">cd /home/</span>
+        <span class="logo__cursor" style=
+                  "{{ with.Site.Params.Logo.logoCursorDisabled }}visibility:hidden;{{ end }}
+                   {{ with.Site.Params.Logo.logoCursorColor    }}background-color:{{ . }};{{ end }}
+                   {{ with.Site.Params.Logo.logoCursorAnimate  }}animation-duration:{{ . }};{{ end }}">
+            </span>
     </div>
 </a>
