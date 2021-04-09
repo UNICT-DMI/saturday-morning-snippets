@@ -1,6 +1,6 @@
 ---
-author:
-  name: "John Doe"
+speaker:
+  name: "Davide Carnemolla"
 date: 2020-05-15
 type:
 - post

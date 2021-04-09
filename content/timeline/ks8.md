@@ -1,13 +1,12 @@
 ---
-author:
-  name: "John Doe"
+speaker:
+  name: "Salvo Nicotra"
 date: 2020-05-29
 linktitle: Sapien faucibus
 type:
 - post
 - posts
 title: Kubernetes
-eventname: Salvo Nicotra
 eventlocation: Singapore
 weight: 10
 ---

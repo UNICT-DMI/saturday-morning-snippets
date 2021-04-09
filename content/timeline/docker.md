@@ -1,13 +1,12 @@
 ---
-author:
-  name: "John Doe"
+speaker:
+  name: "Luigi Toscano"
 date: 2020-05-22
 linktitle: Lorem Ipsum
 type:
 - post
 - posts
 title: Docker
-eventname: Luigi Toscano
 eventlocation: Mumbai, India 
 weight: 10
 ---

@@ -1,13 +1,12 @@
 ---
-author:
-  name: "John Doe"
+speaker:
+  name: "Stefano Borzì"
 date: 2020-05-08
 linktitle: Amet Mauris
 type:
 - post
 - posts
 title: Storia dei sistemi operativi
-eventname: Stefano Borzì
 eventlocation: San Francisco, CA  
 weight: 10
 ---
@@ -18,4 +17,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Euismod in pellentesque massa placerat duis ultricies lacus sed turpis. Tristique nulla aliquet enim tortor at auctor urna nunc id. Lectus proin nibh nisl condimentum id venenatis a condimentum vitae. Ultrices tincidunt arcu non sodales neque. Malesuada fames ac turpis egestas integer eget aliquet. Eu nisl nunc mi ipsum faucibus vitae aliquet nec. Molestie at elementum eu facilisis sed odio morbi quis commodo. Risus in hendrerit gravida rutrum quisque. Ac placerat vestibulum lectus mauris ultrices eros in cursus. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Leo vel orci porta non pulvinar neque laoreet suspendisse. Condimentum lacinia quis vel eros donec. Mi bibendum neque egestas congue quisque egestas diam in arcu. Ultricies integer quis auctor elit sed. Gravida dictum fusce ut placerat. Magna fermentum iaculis eu non diam phasellus vestibulum lorem.
 
+## Speaker: Stefano Borzì
 [LINK](https://github.com/gohugoio/hugo/)

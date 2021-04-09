@@ -1,13 +1,12 @@
 ---
-author:
-  name: "John Doe"
+speaker:
+  name: "Lorenzo Catania"
 date: 2020-06-05
 linktitle: Sapien faucibus
 type:
 - post
 - posts
 title: Rust
-eventname: Lorenzo Catania
 eventlocation: Singapore
 weight: 10
 ---

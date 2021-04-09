@@ -52,8 +52,6 @@ disableHugoGeneratorInject = false
 
   images = [""]
 
-  homeSubtitle = ""
-
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = true
 
@@ -127,7 +125,7 @@ disableHugoGeneratorInject = false
 [menu]
   [[menu.main]]
     identifier = "timeline"
-    name       = "Timeline"
+    name       = "Timelines"
     url        = "timeline/"
     weight     = 1
  

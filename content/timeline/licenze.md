@@ -1,13 +1,12 @@
 ---
-author:
-  name: "John Doe"
+speaker:
+  name: "Angelo Alù & Federica Giaquinta"
 date: 2020-06-12
 linktitle: Sapien faucibus
 type:
 - post
 - posts
 title: Licenze
-eventname: Angelo Alù & Federica Giaquinta
 eventlocation: Singapore
 weight: 10
 ---
