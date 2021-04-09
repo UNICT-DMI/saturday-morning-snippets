@@ -2,10 +2,6 @@
 speaker:
   name: "Salvo Nicotra"
 date: 2020-05-29
-linktitle: Sapien faucibus
-type:
-- post
-- posts
 title: Kubernetes
 linkcollegamento: ""
 logo: "/img/k8s.svg"

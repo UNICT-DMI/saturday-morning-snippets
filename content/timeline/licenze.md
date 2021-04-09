@@ -1,11 +1,7 @@
 ---
 speaker:
   name: "Angelo Alù & Federica Giaquinta"
-date: 2020-06-12
-linktitle: Sapien faucibus
-type:
-- post
-- posts
+date: "2020-06-12"
 title: Licenze
 linkcollegamento: ""
 logo: "/img/gpl.svg"

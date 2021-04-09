@@ -2,10 +2,7 @@
 speaker:
   name: "Lorenzo Catania"
 date: 2020-06-05
-linktitle: Sapien faucibus
-type:
-- post
-- posts
+start: "9:00"
 title: Rust
 linkcollegamento: ""
 logo: "/img/rust.svg"

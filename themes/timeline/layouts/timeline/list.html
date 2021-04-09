@@ -10,26 +10,27 @@
     {{ end }}
 
     <section class="timeline">
-      <div class="container" style="text-align: left!important">
-        {{ range .Pages.ByDate  }} 
+        <div class="container" style="text-align: left!important">
+            {{ range .Pages.ByDate }}
 
-        <div class="timeline-item">
-            <div class="timeline-img"></div>
-
-            <div class="timeline-content js--fadeInLeft">
-                <img style="width: 100%;" src="{{ .Params.logo }}">
+            <div class="timeline-item">
+                <div class="timeline-img"></div>
                 
-                <h2><a href="{{.Permalink}}"><span class="post-title">{{.Title}}</span></a></h2>
-                <div class="date">{{ .Date.Format "02/01"}}</div>
-                <p>
-                    {{.Params.Speaker.Name }}<br>
-                    <a href="{{.Params.linkcollegamento }}" target="_blank" rel="noopener">Link collegamento</a>
-                </p> 
+                <div class="timeline-content js--fadeInLeft">
+                    <img style="height:150px;" src="{{ .Params.logo }}">
+
+                    <h2><a href="{{.Permalink}}"><span class="post-title">{{.Title}}</span></a></h2>
+                    <div class="date">{{ .Date.Format "02/01"}}</div>
+                    <div class="start">{{ .Params.Start }}</div>
+                    <p>
+                        {{.Params.Speaker.Name }}<br>
+                        <a href="{{.Params.linkcollegamento }}" target="_blank" rel="noopener">Link collegamento</a>
+                    </p>
+                </div>
             </div>
-        </div>  
-        {{ end }}   
-    </div>
-</section>
+            {{ end }}
+        </div>
+    </section>
 
 
 

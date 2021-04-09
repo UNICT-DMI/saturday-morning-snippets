@@ -2,9 +2,6 @@
 speaker:
   name: "Luigi Toscano"
 date: 2020-05-22
-type:
-- post
-- posts
 title: Introduzione ai container
 linkcollegamento: ""
 logo: "/img/docker.svg"
