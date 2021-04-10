@@ -17,7 +17,10 @@
                 <div class="timeline-img"></div>
                 
                 <div class="timeline-content js--fadeInLeft">
-                    <img style="height:150px;" src="{{ .Params.logo }}">
+                    <div align="center">
+                        <img style="height:150px;" src="{{ .Params.logo }}">
+                    </div>
+                    
 
                     <h2><a href="{{.Permalink}}"><span class="post-title">{{.Title}}</span></a></h2>
                     <div class="date">{{ .Date.Format "02/01 15:04"}}</div>
