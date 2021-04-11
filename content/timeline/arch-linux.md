@@ -10,7 +10,7 @@ logo: "/img/archlinux.svg"
 width: 10
 ---
 
-Arch Linux è una delle distribuzioni GNU/Linux rolling-release più interessanti degli ultimi anni. Cosa la rende così interessante? È davvero una distribuzione "difficile" come tutti credono? Cosa la differenzia dalle altre distribuzioni più popolari? Nel corso di questa presentazione proveremo a dare una risposta a queste domande, mostrando anche il suo lato più temuto: l'installazione.
+Arch Linux è una delle distribuzioni GNU/Linux rolling-release più interessanti degli ultimi anni. Cosa la rende così interessante? È davvero una distribuzione "difficile" come tutti credono? Cosa la differenzia dalle altre distribuzioni più popolari? Nel corso di questa presentazione proveremo a dare una risposta a queste domande, affrontando anche il suo lato più temuto: l'installazione.
 
 ```bash
 #!/bin/bash
