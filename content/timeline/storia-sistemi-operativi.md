@@ -8,7 +8,8 @@ weight: 10
 logo: "/img/tux.svg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id ornare arcu odio ut sem nulla. Ac felis donec et odio pellentesque. Est placerat in egestas erat imperdiet sed euismod nisi. Vestibulum morbi blandit cursus risus. At volutpat diam ut venenatis tellus. Vel turpis nunc eget lorem. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Diam sit amet nisl suscipit. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta.
+Chi ha creato il primo Personal Computer? Come sono nati e qual è la storia dei sistemi operativi moderni?
+Questa presentazione cercherà di rispondere a queste domande illustrando le buone e/o cattive politiche adottate dalle aziende multinazionali che si sono affermate creando i sistema operativi oggi conosciuti come, Windows, Mac OS e Linux.
 
 ```bash
 > $ echo "Speaker: Stefano Borzì"
