@@ -1,9 +1,10 @@
 {{ define "main" }}
 {{ $paginator := .Paginate .Data.Pages }}
 
-
+<div align="center">
+    <img style="width: 50%;" src="/img/programming.svg" alt="programming">
+</div>
 <main class="posts">
-    <h1>Timeline</h1>
 
     {{ if .Content }}
     <div class="content">{{ .Content }}</div>
