@@ -14,7 +14,7 @@ jobs:
           hugo-version: "0.75.1"
 
       - name: Build
-        run: hugo --minify --baseURL https://unict-dmi.github.io/Saturday-Snippets
+        run: hugo --minify --baseURL https://unict-dmi.github.io/saturday-morning-snippets
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
