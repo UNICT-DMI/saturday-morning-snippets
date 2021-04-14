@@ -37,6 +37,7 @@ section {
 
 .timeline-item {
 	width: 100%;
+	margin-bottom: 20px;
 
 	&:nth-child(even) {
 
@@ -109,11 +110,11 @@ section {
 	padding: 0!important;
 
 	p {
-		padding: 0 15px;
+		padding: 0 20px;
 	}
 
 	a {
-		margin-left: 15px;
+		margin-left: 20px;
 	}
 }
 
