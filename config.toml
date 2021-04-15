@@ -35,6 +35,7 @@ disableHugoGeneratorInject = false
 
 [author]
   name = "Dipartimento di Matematica e Informatica, Università degli Studi di Catania"
+  url = "http://web.dmi.unict.it/"
 
 [blackfriday]
   hrefTargetBlank = true
