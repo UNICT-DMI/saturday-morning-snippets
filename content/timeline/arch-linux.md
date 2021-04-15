@@ -4,7 +4,6 @@ speaker:
 date: 2020-05-15T10:00:00
 start: "9:00"
 title: 'Arch Linux: una distribuzione semplice'
-eventname: Davide Carnemolla
 linkcollegamento: ""
 logo: "/img/archlinux.svg"
 width: 10

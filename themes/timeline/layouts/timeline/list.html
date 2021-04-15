@@ -26,7 +26,11 @@
                     <h2><a href="{{.Permalink}}"><span class="post-title">{{.Title}}</span></a></h2>
                     <div class="date">{{ .Date.Format "02/01 15:04"}}</div>
                     <p>
-                        {{.Params.Speaker.Name }}<br>
+                        {{.Params.Speaker.Name }} 
+                        {{ if .Params.Speaker.Company }}
+                            - {{.Params.Speaker.Company}}
+                        {{ end }}
+                        <br>
                         <a href="{{.Params.linkcollegamento }}" target="_blank" rel="noopener">Link collegamento</a>
                     </p>
                 </div>

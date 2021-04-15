@@ -1,6 +1,7 @@
 ---
 speaker:
   name: "Luigi Toscano"
+  company: Red Hat
 date: 2020-05-22T10:00:00
 title: Introduzione ai container
 linkcollegamento: ""
