@@ -1,7 +1,7 @@
 ---
 speaker:
   name: "Salvo Nicotra"
-  company: "Neodata"
+  company: "Neodata Group"
 date: 2020-05-29T10:00:00
 title: Kubernetes
 linkcollegamento: ""
