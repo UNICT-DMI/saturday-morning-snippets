@@ -32,6 +32,7 @@ disableHugoGeneratorInject = false
 
 [permalinks]
   posts = "/posts/:title/"
+  timeline = "/programma/:title"
 
 [author]
   name = "Dipartimento di Matematica e Informatica, Università degli Studi di Catania"
@@ -88,9 +89,9 @@ disableHugoGeneratorInject = false
     copyright = ''
 [menu]
   [[menu.main]]
-    identifier = "timeline"
-    name       = "Timeline"
-    url        = "timeline/"
+    identifier = "programma"
+    name       = "Programma"
+    url        = "programma/"
     weight     = 1
   [[menu.main]]
     identifier = "contatti"
