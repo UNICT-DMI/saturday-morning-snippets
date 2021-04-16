@@ -3,13 +3,11 @@ speaker:
   name: "Salvo Nicotra"
   company: "Neodata Group"
 date: 2020-05-29T10:00:00
-title: Kubernetes
+title: K8s Hands On
 linkcollegamento: ""
 logo: "/img/k8s.svg"
 weight: 10
 ---
-# K8s Hands On
-## Abstract 
 
 > "Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications." [Source](https://kubernetes.io/) 
 
