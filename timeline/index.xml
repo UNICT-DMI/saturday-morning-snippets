@@ -8,10 +8,21 @@ ANGELO ALÙ &amp; FEDERICA GIAQUINTA
     println<span style="color:#f92672">!</span>(<span style="color:#e6db74">&#34;Speaker: Lorenzo Catania&#34;</span>);
 }
 </code></pre></div><p><a href="https://github.com/gohugoio/hugo/">Link</a></p>
-]]></content></item><item><title>Kubernetes</title><link>https://unict-dmi.github.io/saturday-morning-snippets/timeline/k8s/</link><pubDate>Fri, 29 May 2020 10:00:00 +0000</pubDate><guid>https://unict-dmi.github.io/saturday-morning-snippets/timeline/k8s/</guid><description>TBA
-&amp;gt; $ kubectl exec shell-demo -- /bin/echo &amp;#34;Speaker: Salvo Nicotra&amp;#34; Link al collegamento</description><content type="html"><![CDATA[<p>TBA</p>
+]]></content></item><item><title>Kubernetes</title><link>https://unict-dmi.github.io/saturday-morning-snippets/timeline/k8s/</link><pubDate>Fri, 29 May 2020 10:00:00 +0000</pubDate><guid>https://unict-dmi.github.io/saturday-morning-snippets/timeline/k8s/</guid><description>K8s Hands On Abstract &amp;ldquo;Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.&amp;rdquo; Source
+In the last years two technologies: containers and clouds , have been widely and fastly adopted, containers allow &amp;ldquo;empowered app development and sharing&amp;rdquo;, cloud computing introduced scalable and cost effective resources to run computer programs.
+The combination of these technologies find its best match in Kubernetes, the on-the-edge de facto standard technology that make containers be able to run and interact in a secure, scalable and reliable enviroment.</description><content type="html"><![CDATA[<h1 id="k8s-hands-on">K8s Hands On</h1>
+<h2 id="abstract">Abstract</h2>
+<blockquote>
+<p>&ldquo;Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.&rdquo; <a href="https://kubernetes.io/">Source</a></p>
+</blockquote>
+<p>In the last years two technologies: containers and clouds  , have been widely and fastly adopted,
+containers allow &ldquo;empowered app development and sharing&rdquo;, cloud computing introduced scalable and cost effective resources to run computer programs.</p>
+<p>The combination of these technologies find its best match in Kubernetes, the on-the-edge de facto standard technology that make containers be able to run and interact in a secure, scalable and reliable enviroment.</p>
+<p>In this seminar, we will try k8s using a local test enviroment introducing the basic components and api and creating an &ldquo;hello world&rdquo; application, and give a look to real case applications.</p>
+<p>The only requirement is a computer, some ram and cpu and spirit of fun!</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">&gt; $ kubectl exec shell-demo -- /bin/echo <span style="color:#e6db74">&#34;Speaker: Salvo Nicotra&#34;</span>
-</code></pre></div><p><a href="https://github.com/gohugoio/hugo/">Link al collegamento</a></p>
+</code></pre></div><p><a href="https://about.me/snicotra">Salvo Nicotra</a><br>
+<a href="https://github.com/gohugoio/hugo/">Link al collegamento</a></p>
 ]]></content></item><item><title>Introduzione ai container</title><link>https://unict-dmi.github.io/saturday-morning-snippets/timeline/container/</link><pubDate>Fri, 22 May 2020 10:00:00 +0000</pubDate><guid>https://unict-dmi.github.io/saturday-morning-snippets/timeline/container/</guid><description>Si fa presto a dire &amp;lsquo;container&amp;rsquo;: una delle tecnologie informatiche più rilevanti nell&amp;rsquo;ultimo decennio è saldamente fondata sulle funzioni del kernel Linux. Questa presentazione mostrerà come tali funzioni sono state utilizzate per costruire degli strumenti ad alto livello per la gestione dei container.
 FROMalpine:latestENTRYPOINT [ &amp;#34;/bin/echo&amp;#34;, &amp;#34;Speaker: Luigi Toscano&amp;#34; ]Link al collegamento</description><content type="html"><![CDATA[<p>Si fa presto a dire &lsquo;container&rsquo;: una delle tecnologie informatiche più
 rilevanti nell&rsquo;ultimo decennio è saldamente fondata sulle funzioni del kernel
