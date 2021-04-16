@@ -1,34 +1,40 @@
 {{ define "main" }}
-  <main class="post">
-    <article>
-      <h1 class="post-title">
+<main class="post">
+  <article>
+
+    <div class="post-wrapper">
+      <h1>
         {{ .Title | markdownify }}
       </h1>
 
-      {{- if .Params.toc }}
-        <hr />
-        <aside id="toc">
-          <div class="toc-title">{{ i18n "tableOfContents" }}</div>
-          {{ .TableOfContents }}
-        </aside>
-        <hr />
-      {{- end }}
+      <img style="height: 225px;" src="{{ .Params.logo }}">
+    </div>
 
-      {{ with .Params.Cover }}
-        <img src="/{{ . }}" class="post-cover" />
-      {{ end }}
 
-      <div class="post-content">
-        {{ .Content }}
-      </div>
-    </article>
-
-    {{- if .Site.Params.EnableSharingButtons }}
-      <hr />
-      <div class="sharing-buttons">
-        {{ partial "sharing-buttons.html" . }}
-      </div>
+    {{- if .Params.toc }}
+    <hr />
+    <aside id="toc">
+      <div class="toc-title">{{ i18n "tableOfContents" }}</div>
+      {{ .TableOfContents }}
+    </aside>
+    <hr />
     {{- end }}
 
-  </main>
+    {{ with .Params.Cover }}
+    <img src="/{{ . }}" class="post-cover" />
+    {{ end }}
+
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  </article>
+
+  {{- if .Site.Params.EnableSharingButtons }}
+  <hr />
+  <div class="sharing-buttons">
+    {{ partial "sharing-buttons.html" . }}
+  </div>
+  {{- end }}
+
+</main>
 {{ end }}

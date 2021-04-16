@@ -186,3 +186,16 @@
     margin-right: 8px;
   }
 }
+
+.post-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media(min-width: 768px){
+  .post-wrapper{
+    flex-direction: row;
+  }
+}
