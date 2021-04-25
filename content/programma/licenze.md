@@ -2,7 +2,7 @@
 speaker:
   name: "Angelo Alù & Federica Giaquinta"
 date: 2020-06-12T10:00:00
-title: Il valore giuridico delle licenze online tra open-source, software libero e copyleft.
+title: Il valore giuridico delle licenze online
 linkcollegamento: ""
 logo: "/img/gpl.svg"
 weight: 10
@@ -15,4 +15,4 @@ Focus dedicato all’inquadramento delle licenze utilizzabili per la condivision
 ANGELO ALÙ & FEDERICA GIAQUINTA
 ```
 
-[Link](https://github.com/gohugoio/hugo/) 
+[Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWM5ZTQ5OTItMWViMi00MmQ5LThiY2ItYjdkOTk5ZTAyZThm%40thread.v2/0?context=%7b%22Tid%22%3a%22baeefbc8-3c8b-4382-9126-e86bfef46ce6%22%2c%22Oid%22%3a%22fe95f41d-f044-4662-8620-449bb74cc457%22%7d) 

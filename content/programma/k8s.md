@@ -1,6 +1,6 @@
 ---
 speaker:
-  name: "Salvo Nicotra"
+  name: "Salvatore Nicotra"
   company: "Neodata Group"
 date: 2020-05-29T10:00:00
 title: K8s Hands On
@@ -24,4 +24,4 @@ The only requirement is a computer, some ram and cpu and spirit of fun!
 > $ kubectl exec shell-demo -- /bin/echo "Speaker: Salvo Nicotra"
 ```
 [Salvo Nicotra](https://about.me/snicotra) \
-[Link al collegamento](https://github.com/gohugoio/hugo/) 
+[Link al collegamento](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmNiZDI4ZGQtZTQ5OC00MTJlLTkzZTgtYmUxN2MwODA2ZTE0%40thread.v2/0?context=%7b%22Tid%22%3a%22baeefbc8-3c8b-4382-9126-e86bfef46ce6%22%2c%22Oid%22%3a%22fe95f41d-f044-4662-8620-449bb74cc457%22%7d) 
