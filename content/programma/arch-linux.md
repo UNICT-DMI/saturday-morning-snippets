@@ -4,7 +4,7 @@ speaker:
 date: 2020-05-15T10:00:00
 start: "9:00"
 title: 'Arch Linux: una distribuzione semplice'
-linkcollegamento: ""
+linkcollegamento: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmZmNjQwNTYtMDAzMy00MDE3LThmOGQtOWI3MWY2ODI5YjVh%40thread.v2/0?context=%7b%22Tid%22%3a%22baeefbc8-3c8b-4382-9126-e86bfef46ce6%22%2c%22Oid%22%3a%22fe95f41d-f044-4662-8620-449bb74cc457%22%7d)"
 logo: "/img/archlinux.svg"
 width: 10
 ---

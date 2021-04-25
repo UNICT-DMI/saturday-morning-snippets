@@ -4,7 +4,7 @@ speaker:
   company: "Neodata Group"
 date: 2020-05-29T10:00:00
 title: K8s Hands On
-linkcollegamento: ""
+linkcollegamento: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmNiZDI4ZGQtZTQ5OC00MTJlLTkzZTgtYmUxN2MwODA2ZTE0%40thread.v2/0?context=%7b%22Tid%22%3a%22baeefbc8-3c8b-4382-9126-e86bfef46ce6%22%2c%22Oid%22%3a%22fe95f41d-f044-4662-8620-449bb74cc457%22%7d"
 logo: "/img/k8s.svg"
 weight: 10
 ---
