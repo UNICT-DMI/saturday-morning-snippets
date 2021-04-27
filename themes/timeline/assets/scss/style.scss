@@ -206,3 +206,9 @@ blockquote {
 	}
 	
 }
+
+.mobileShow { display: none; }
+
+@media(max-width: 768px){
+    .mobileShow { display: inline; }
+}
