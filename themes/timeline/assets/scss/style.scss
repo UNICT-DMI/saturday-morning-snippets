@@ -7,13 +7,13 @@ $secondary-text: #757575;
 $accent: #212121;
 
 
-.hero-table { 
+.hero-table {
   margin-left: 10%;
   margin-right: 10%;
 }
-  
 
- 
+
+
 
 
 section {
@@ -187,7 +187,7 @@ blockquote {
 			&:nth-child(odd) {
 
 				.timeline-content {
-					
+
 					&::after {
 						content: '';
 						position: absolute;
@@ -204,11 +204,11 @@ blockquote {
 			}
 		}
 	}
-	
+
 }
 
 .mobileShow { display: none; }
 
 @media(max-width: 768px){
-    .mobileShow { display: inline; }
+    .mobileShow { display: inline; margin: 0 auto; }
 }
