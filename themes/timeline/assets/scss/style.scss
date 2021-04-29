@@ -210,5 +210,6 @@ blockquote {
 .mobileShow { display: none; }
 
 @media(max-width: 768px){
-    .mobileShow { display: inline; margin: 0 auto; }
+    .mobileShow { display: inline; }
+		.mobileShow a { margin: 0 auto; }
 }
