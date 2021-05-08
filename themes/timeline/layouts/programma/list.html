@@ -33,7 +33,12 @@
                             - {{.Params.Speaker.Company}}
                         {{ end }}
                         <br>
-                        <a href="{{.Params.linkcollegamento }}" target="_blank" rel="noopener">Link collegamento</a>
+                        {{if .Params.linkcollegamento }}
+                            <a href="{{.Params.linkcollegamento }}" target="_blank" rel="noopener">Link collegamento</a>
+                        {{end}}
+                        {{ if .Params.linkregistrazione }}
+                            <a href="{{.Params.linkregistrazione }}" target="_blank" rel="noopener">Link registrazione</a>
+                        {{end}}
                     </p>
                 </div>
             </div>

@@ -4,7 +4,7 @@ speaker:
   company: "FedEx"
 date: 2020-05-08T10:00:00
 title: Storia dei sistemi operativi
-linkcollegamento: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjY3Zjk5M2UtOTM3MS00OTI2LWE5NmQtZDE0NzQ5MjI5NDZk%40thread.v2/0?context=%7b%22Tid%22%3a%22baeefbc8-3c8b-4382-9126-e86bfef46ce6%22%2c%22Oid%22%3a%22fe95f41d-f044-4662-8620-449bb74cc457%22%7d"
+linkregistrazione: "https://www.youtube.com/watch?v=lKz4mJjNQxI&t=27s"
 weight: 10
 logo: "/img/tux.svg"
 ---
@@ -26,4 +26,4 @@ int init_module(void){
 }
 ```
 
-[Link al collegamento](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjY3Zjk5M2UtOTM3MS00OTI2LWE5NmQtZDE0NzQ5MjI5NDZk%40thread.v2/0?context=%7b%22Tid%22%3a%22baeefbc8-3c8b-4382-9126-e86bfef46ce6%22%2c%22Oid%22%3a%22fe95f41d-f044-4662-8620-449bb74cc457%22%7d)
+[Link alla registrazione](https://www.youtube.com/watch?v=lKz4mJjNQxI&t=27s)
