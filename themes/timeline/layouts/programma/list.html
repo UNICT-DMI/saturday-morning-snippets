@@ -37,8 +37,13 @@
                             <a href="{{.Params.linkcollegamento }}" target="_blank" rel="noopener">Link collegamento</a>
                         {{end}}
                         {{ if .Params.linkregistrazione }}
-                            <a href="{{.Params.linkregistrazione }}" target="_blank" rel="noopener">Link registrazione</a>
+                            <a href="{{.Params.linkregistrazione }}" target="_blank" rel="noopener">Video</a>
+                            {{if .Params.diapositive }}
+                               - <a href="/diapositive/{{.Params.diapositive}}" target="_blank">Diapositive</a>
+                            {{end}}    
                         {{end}}
+
+                        
                     </p>
                 </div>
             </div>

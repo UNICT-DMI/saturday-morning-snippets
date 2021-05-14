@@ -5,6 +5,7 @@ speaker:
 date: 2020-05-08T10:00:00
 title: Storia dei sistemi operativi
 linkregistrazione: "https://www.youtube.com/watch?v=lKz4mJjNQxI&t=27s"
+diapositive: "storia-sistemi-operativi.pdf"
 weight: 10
 logo: "/img/tux.svg"
 ---
@@ -26,4 +27,4 @@ int init_module(void){
 }
 ```
 
-[Link alla registrazione](https://www.youtube.com/watch?v=lKz4mJjNQxI&t=27s)
+[Video](https://www.youtube.com/watch?v=lKz4mJjNQxI&t=27s) - [Diapositive](/diapositive/storia-sistemi-operativi.pdf)
