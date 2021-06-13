@@ -4,7 +4,8 @@ speaker:
 date: 2020-06-05T10:00:00
 start: "9:00"
 title: Rust
-linkcollegamento: "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDA0NWRmNTctODE5ZS00ZTBkLTk1YWUtODJkYzc4ZjA1NDY2%40thread.v2/0?context=%7b%22Tid%22%3a%22baeefbc8-3c8b-4382-9126-e86bfef46ce6%22%2c%22Oid%22%3a%22fe95f41d-f044-4662-8620-449bb74cc457%22%7d"
+linkregistrazione: https://youtu.be/Jf8Y9oKJf-o
+diapositive: Rust.pdf
 logo: "/img/rust.svg"
 weight: 10
 ---
@@ -17,4 +18,4 @@ fn main() {
 }
 ```
 
-[Link al collegamento](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDA0NWRmNTctODE5ZS00ZTBkLTk1YWUtODJkYzc4ZjA1NDY2%40thread.v2/0?context=%7b%22Tid%22%3a%22baeefbc8-3c8b-4382-9126-e86bfef46ce6%22%2c%22Oid%22%3a%22fe95f41d-f044-4662-8620-449bb74cc457%22%7d) 
+[Video](https://youtu.be/Jf8Y9oKJf-o) - [Diapositive](/diapositive/Rust.pdf) 
